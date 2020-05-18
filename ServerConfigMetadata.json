@@ -1,0 +1,10 @@
+{
+    "OnlinePolicyList" : [
+        {
+            "Name" : "AzSK.json"
+        }, 
+        {
+            "Name" : "ServerConfigMetadata.json"
+        }
+    ]
+}
